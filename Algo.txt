@@ -1,9 +1,9 @@
 1. Decide which business to order from
-    -check ratings online
+1a. check ratings online
 2. Pick a time to order
-Pick your sides
-Pick your toppings
-Pick how many pizzas
+3. Pick your sides
+4. Pick your toppings
+4a. Pick how many pizzas
 order the pizza
     -Pick phone
     -Pick Delivery
