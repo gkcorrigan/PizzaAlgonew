@@ -1,0 +1,9 @@
+1. Decide which business to order from
+2. Pick a time to order
+Pick your sides
+Pick your toppings
+Pick how many pizzas
+order the pizza
+    -Pick phone
+    -Pick Delivery
+    -Pay them money
